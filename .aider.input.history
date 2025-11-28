@@ -1,0 +1,20 @@
+
+# 2025-11-28 05:58:12.011310
++Code the following app
++```
++an app that asks the user for a web3 wallet address and then check's it's historic asset balance and values across different chains. The app uses https://basescan.org/ , https://bscscan.com/ and https://etherscan.io/ to fetch these values.
++
++after analysing the historic values for the past 30 days the app returns the changes in balance and asset distribution per blockchain.
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-11-28 05:58:12.011759
++Code the following app
++```
++an app that asks the user for a web3 wallet address and then check's it's historic asset balance and values across different chains. The app uses https://basescan.org/ , https://bscscan.com/ and https://etherscan.io/ to fetch these values.
++
++after analysing the historic values for the past 30 days the app returns the changes in balance and asset distribution per blockchain.
++```
++
++Generate an app logo and update the app metadata title and description.
