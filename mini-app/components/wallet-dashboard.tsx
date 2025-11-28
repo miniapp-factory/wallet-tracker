@@ -18,8 +18,9 @@ export default function WalletDashboard() {
     try {
       const result = await fetchBalances(address);
       setData(result);
-    } catch (e: any) {
-      setError(e.message || "Unknown error");
+    } catch (e: unknown) {
+      const message = e instanceof Error ? e.message : "Unknown error";
+      setError(message);
     } finally {
       setLoading(false);
     }
